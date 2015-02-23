@@ -4,7 +4,7 @@ var React = require('react/addons');
 var SUMMARY = 0;
 var FULL = 1;
 
-module.exports = React.createClass(
+module.exports = React.createClass({
   getInitialState: function() {
     return { view: SUMMARY };
   },
