@@ -6,6 +6,8 @@ Version: 0.1.0
 React component that allows you to show a preview or summary of content until the user clicks to see
 the full content. Currently ugly, but technically works.
 
+There's an incredibly underwhelming demo [here](http://yeahbuthats.github.io/react-blurb/).
+
 Usage
 =====
 
