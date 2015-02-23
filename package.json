@@ -1,0 +1,35 @@
+{
+  "name": "react-blurb",
+  "version": "0.1.0",
+  "description": "React component that allows you to show a preview or summary. A click shows the full content.",
+  "main": "blurb.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YeahButHats/react-blurb.git"
+  },
+  "keywords": [
+    "react",
+    "blurb",
+    "summary",
+    "preview",
+    "thumbnail"
+  ],
+  "author": "Stephen Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YeahButHats/react-blurb/issues"
+  },
+  "homepage": "https://github.com/YeahButHats/react-blurb",
+  "dependencies": {
+    "react": "^0.12.2"
+  },
+  "devDependencies": {
+    "css-loader": "^0.9.1",
+    "jsx-loader": "^0.12.2",
+    "style-loader": "^0.8.3",
+    "webpack": "^1.5.3"
+  }
+}

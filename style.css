@@ -1,0 +1,11 @@
+.blurb-preview {
+	border: 1px solid black;
+	margin: 5px 0px;
+	padding: 5px;
+	cursor: pointer;
+}
+
+#content {
+	width: 400px;
+	margin: 0 auto;
+}
